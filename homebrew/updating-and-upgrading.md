@@ -1,4 +1,4 @@
-# Updating and Upgrading
+# Updating and Upgrading with Homebrew
 
 ##### Understanding the difference between 'update' and 'upgrade'
 
