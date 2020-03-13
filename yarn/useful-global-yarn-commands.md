@@ -1,4 +1,4 @@
-# Useful Composer Global Commands
+# Useful Yarn Global Commands
 
 ##### To upgrade all globally installed yarn packages:
 `yarn global upgrade-interactive --latest`
