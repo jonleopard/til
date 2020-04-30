@@ -29,6 +29,7 @@ git checkout master
 
 
 
-Helpful links
+# Further reading
 - https://git-scm.com/book/en/v2/Git-Basics-Tagging
+- https://github.com/openmelody/melody/wiki/devbest-tagging
 - https://stackoverflow.com/questions/4404172/how-to-tag-an-older-commit-in-git/21759466#21759466
