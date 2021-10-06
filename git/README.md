@@ -6,7 +6,12 @@
 - https://learngitbranching.js.org/
 - https://git-scm.com/book/en/v2
 - https://www.atlassian.com/git
+- https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/
 - https://guides.github.com/introduction/git-handbook/
+- https://ohshitgit.com/
+- https://jwiegley.github.io/git-from-the-bottom-up/
+- https://xosh.org/explain-git-in-simple-words/
+- https://github.com/operatorequals/git-course
 
 
 #### rebasing
@@ -22,6 +27,7 @@
 
 
 #### misc
+- https://cuddly-octo-palm-tree.com/posts/2021-09-19-git-elements/
 - http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;
 - http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/
 - https://git-send-email.io/
