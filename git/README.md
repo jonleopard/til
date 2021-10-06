@@ -14,9 +14,14 @@
 - https://rebase-book.com/
 
 
-
 #### gitflow
 - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 - https://zellwk.com/blog/git-flow/
 - https://nvie.com/posts/a-successful-git-branching-model/
 - https://danielkummer.github.io/git-flow-cheatsheet/
+
+
+#### misc
+- http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;
+- http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/
+- https://git-send-email.io/
