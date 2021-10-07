@@ -32,6 +32,7 @@
 - https://www.conventionalcommits.org/en/v1.0.0/
 - https://semantic-release.gitbook.io/semantic-release/
 - https://github.com/googleapis/release-please
+- https://github.com/conventional-changelog/standard-version
 
 
 #### misc
