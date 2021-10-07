@@ -30,7 +30,7 @@
 - https://semver.org/
 - https://keepachangelog.com/en/1.0.0/
 - https://www.conventionalcommits.org/en/v1.0.0/
-- https://semantic-release.gitbook.io/semantic-release/
+- https://github.com/semantic-release/semantic-release
 - https://github.com/googleapis/release-please
 - https://github.com/conventional-changelog/standard-version
 
