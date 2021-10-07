@@ -25,7 +25,8 @@
 - https://nvie.com/posts/a-successful-git-branching-model/
 - https://danielkummer.github.io/git-flow-cheatsheet/
 
-#### Versioning & Changelogs
+
+#### versioning & changelogs
 - https://semver.org/
 - https://keepachangelog.com/en/1.0.0/
 - https://www.conventionalcommits.org/en/v1.0.0/
@@ -36,4 +37,3 @@
 - http://www.ndpsoftware.com/git-cheatsheet.html#loc=workspace;
 - http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/
 - https://git-send-email.io/
-
