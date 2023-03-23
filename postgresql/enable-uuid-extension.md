@@ -35,10 +35,16 @@ db=# \df
                                   List of functions
  Schema |        Name        | Result data type |    Argument data types    |  Type
 --------+--------------------+------------------+---------------------------+--------
- public | uuid_generate_v1   | uuid             |                           | normal
- public | uuid_generate_v1mc | uuid             |                           | normal
- public | uuid_generate_v3   | uuid             | namespace uuid, name text | normal
- public | uuid_generate_v4   | uuid             |                           | normal
+ public | uuid_generate_v1   | uuid             |                           | func
+ public | uuid_generate_v1mc | uuid             |                           | func
+ public | uuid_generate_v3   | uuid             | namespace uuid, name text | func
+ public | uuid_generate_v4   | uuid             |                           | func
+ public | uuid_generate_v5   | uuid             | namespace uuid, name text | func
+ public | uuid_nil           | uuid             |                           | func
+ public | uuid_ns_dns        | uuid             |                           | func
+ public | uuid_ns_oid        | uuid             |                           | func
+ public | uuid_ns_url        | uuid             |                           | func
+ public | uuid_ns_x500       | uuid             |                           | func
 
 db=# select uuid_generate_v4();
            uuid_generate_v4
