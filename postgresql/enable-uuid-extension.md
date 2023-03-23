@@ -14,7 +14,7 @@ Once insde your VM or container, login to your postgres instance:
 
 
 
-##### Viewing & Enabling Extentions
+##### Viewing & Enabling Extensions
 
 You can list the available extensions in your postgres instance by running
 `\df` (describe functions). If the extension exists but you don't see it listed,
